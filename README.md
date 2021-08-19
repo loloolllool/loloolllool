@@ -1,0 +1,3 @@
+- 👀 Typescript/Javascript/C#
+- 👀 Kubernetes/Azure
+- 👀 React/ASP.NET Core
